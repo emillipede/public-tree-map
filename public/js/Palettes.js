@@ -7,7 +7,7 @@ var app = this.app || {};
       'generated': false,
       'field'    : 'CA native',
       'native'   : '#2ca25f',
-      'exotic'   : '#fff7bc',
+      'exotic'   : '#feb24c',
       'default'  : '#bdbdbd'
     },
     'name_common': {
